@@ -1,4 +1,4 @@
-I’m Michael Moen, a student at the University of Alabama studying Computer Science and Mathematics.
+I’m Michael Moen, a student studying Computer Science.
 
 You can reach me at moenmichael02@gmail.com
 
