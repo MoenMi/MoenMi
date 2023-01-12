@@ -1,6 +1,4 @@
-I’m Michael Moen, a student studying Computer Science.
-
-You can reach me at moenmichael02@gmail.com
+I’m Michael Moen, a student studying Computer Science and Mathematics at the University of Alabama.
 
 <!---
 MoenMi/MoenMi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
