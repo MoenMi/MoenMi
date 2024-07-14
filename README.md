@@ -2,7 +2,7 @@
 - 🔭 Data Science and Informatics Assisant *@The University of Alabama Libraries*
 - 👨🏻‍💻 SWE Intern *@Northrop Grumman* and *@National Geospatial-Intelligence Agency*
 - 🧰 I build with `Python`, `C/C++`, `Javascript`, `HTML/CSS`, and more
-- 💡 Interested in data science, machine learning, Django, and GIS
+- 💡 Interested in web development, machine learning, Django, and GIS
 - 📫 You can reach me at [moenmichael02@gmail.com](moenmichael02@gmail.com)
 
 ### Some API tutorials I've written for UA Libraries:
