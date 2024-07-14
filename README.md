@@ -1,4 +1,4 @@
-- 📖 B.S. Computer Science & Mathematics, M.S. Applied Statistics *@The University of Alabama* (2026 grad)
+- 📖 B.S. Computer Science & Mathematics, M.S. Applied Statistics *@The University of Alabama*
 - 🔭 Data Science and Informatics Assisant *@The University of Alabama Libraries*
 - 👨🏻‍💻 SWE Intern *@Northrop Grumman* and *@National Geospatial-Intelligence Agency*
 - 🧰 I build with `Python`, `C/C++`, `Javascript`, `HTML/CSS`, and more
