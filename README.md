@@ -5,7 +5,7 @@
 - 💡 Interested in data science, machine learning, Django, and GIS
 - 📫 You can reach me at [moenmichael02@gmail.com](moenmichael02@gmail.com)
 
-### Some API tutorials for UA Libraries:
+### Some API tutorials I've written for UA Libraries:
 
 - [OpenStreetMap](https://ualibweb.github.io/UALIB_ScholarlyAPI_Cookbook/src/python/osm.html)
 - [U.S. Bureau of Labor Statistics](https://ualibweb.github.io/UALIB_ScholarlyAPI_Cookbook/src/python/bls.html)
