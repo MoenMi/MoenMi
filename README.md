@@ -3,7 +3,7 @@
 - 👨🏻‍💻 SWE Intern *@Northrop Grumman* and *@National Geospatial-Intelligence Agency*
 - 🧰 I build with `Python`, `C/C++`, `Javascript`, `HTML/CSS`, and more
 - 💡 Interested in web development, machine learning, Django, GIS, and much, much more
-- 📫 You can reach me at [moenmichael02@gmail.com](moenmichael02@gmail.com)
+- 📫 You can reach me at [moenmichael02@gmail.com](moenmichael02@gmail.com) or [mtmoen@crimson.ua.edu](mtmoen@crimson.ua.edu)
 
 ### Some API tutorials I've written for UA Libraries:
 
