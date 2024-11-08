@@ -7,8 +7,8 @@
 
 ### Some API tutorials I've written for UA Libraries:
 
-- [OpenStreetMap](https://ualibweb.github.io/UALIB_ScholarlyAPI_Cookbook/src/python/osm.html)
-- [U.S. Bureau of Labor Statistics](https://ualibweb.github.io/UALIB_ScholarlyAPI_Cookbook/src/python/bls.html)
-- [College Scorecard](https://ualibweb.github.io/UALIB_ScholarlyAPI_Cookbook/src/python/college-scorecard.html)
-- [SEC EDGAR](https://ualibweb.github.io/UALIB_ScholarlyAPI_Cookbook/src/python/sec-edgar.html)
-- [OpenAlex](https://ualibweb.github.io/UALIB_ScholarlyAPI_Cookbook/src/python/openalex.html)
+- [OpenStreetMap](https://ua-libraries-research-data-services.github.io/UALIB_ScholarlyAPI_Cookbook/src/python/osm.html)
+- [U.S. Bureau of Labor Statistics](https://ua-libraries-research-data-services.github.io/UALIB_ScholarlyAPI_Cookbook/src/python/bls.html)
+- [College Scorecard](https://ua-libraries-research-data-services.github.io/UALIB_ScholarlyAPI_Cookbook/src/python/college-scorecard.html)
+- [SEC EDGAR](https://ua-libraries-research-data-services.github.io/UALIB_ScholarlyAPI_Cookbook/src/python/sec-edgar.html)
+- [OpenAlex](https://ua-libraries-research-data-services.github.io/UALIB_ScholarlyAPI_Cookbook/src/python/openalex.html)
