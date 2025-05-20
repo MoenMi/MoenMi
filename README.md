@@ -1,5 +1,5 @@
 - 📖 B.S. Computer Science & Mathematics, M.S. Applied Statistics *@The University of Alabama*
-- 🔭 Data Science and Informatics Assisant *@The University of Alabama Libraries*
+- 🔭 Research Computing Student Assisant *@The University of Alabama Libraries*
 - 👨🏻‍💻 SWE Intern *@Northrop Grumman* and *@National Geospatial-Intelligence Agency*
 - 🧰 I build with `Python`, `C/C++`, `Javascript`, `HTML/CSS`, and more
 - 📫 You can reach me at [moenmichael02@gmail.com](moenmichael02@gmail.com)
