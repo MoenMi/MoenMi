@@ -1,5 +1,5 @@
 - 📖 M.S. in Applied Statistics, B.S. Computer Science & Mathematics *@The University of Alabama*
-- 🔭 Research Computing Student Assisant *@The University of Alabama Libraries*
+- 🔭 Research Computing Student Team Lead *@The University of Alabama Libraries*
 - 👨🏻‍💻 MLOps Intern *@Veterans United Home Loans*
 - 🧰 Previous SWE Intern *@Northrop Grumman* and *@National Geospatial-Intelligence Agency*
 
